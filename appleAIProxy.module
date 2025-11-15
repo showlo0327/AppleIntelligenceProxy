@@ -1,3 +1,6 @@
+#!name= AppleAIProxy
+#!desc= Apple Intelligence 代理
+#!author= Songsong-Hui
 [General]
 name = Apple Intelligence & Siri (Proxy)
 description = 将 Apple Intelligence、Siri 和私有云计算的请求通过 PROXY 规则路由。
