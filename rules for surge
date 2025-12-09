@@ -1,0 +1,15 @@
+# name= AppleAIProxy_Surge
+# desc= Apple Intelligence 代理(surge专用)
+# author= Songsong-Hui
+# name = Apple Intelligence & Siri (Proxy)
+# description = 将 Apple Intelligence、Siri 和私有云计算的请求通过 PROXY 规则路由。
+# Siri and Dictation
+DOMAIN,guzzoni.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
