@@ -1,0 +1,35 @@
+# =========================
+# Apple Intelligence / Siri AI
+# =========================
+
+# Siri / Apple Intelligence Core
+DOMAIN,guzzoni.apple.com
+DOMAIN,api-siri-prod.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+
+# Apple Intelligence / Private Relay
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+
+# Apple Relay
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+
+# AI / Apple infrastructure
+DOMAIN-SUFFIX,cp4.cloudflare.com
+
+# LinkScribe / specific Apple AI dependency
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,gsp64-ssl.ls.apple.com
+
+# iCloud AI dependency
+DOMAIN-SUFFIX,gateway.icloud.com
